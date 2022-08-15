@@ -1,1 +1,1 @@
-# note-taker
+# Text Editor
