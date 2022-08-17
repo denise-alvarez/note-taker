@@ -13,5 +13,5 @@ To install this application you must copy the repository into your system. After
 ![Screenshot](/client/src/images/Screenshot.png)
 
 [My GitHub](https://github.com/denise-alvarez) <br/>
-[Repo Link](git@github.com:denise-alvarez/text-editor.git) <br/>
+[Repo Link](https://github.com/denise-alvarez/text-editor.git) <br/>
 [Heroku Link](https://rocky-meadow-96084.herokuapp.com/)
